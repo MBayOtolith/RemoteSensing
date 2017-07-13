@@ -3,6 +3,8 @@ rERDDAP\_pull.R
 Tyler Gagne
 13 July 2017
 
+This is a script demonstrating how to search and extract ERDDAP databases.
+
 ``` r
 library(rerddap)
 library(ggplot2)
